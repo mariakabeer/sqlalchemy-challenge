@@ -1,1 +1,2 @@
 # sqlalchemy-challenge
+With this project, I was easily able to complete the first half but had some confusion on the second half. For the first portion I referenced previous lecture examples and was able to determine how to complete the tasks. For the second portion I was a bit confused on whether or not I was doing things in the right order and in the right way. For the app, I heavily relied on ChatGBT to explain what syntax needed to be used and what did and did not need to be included.
